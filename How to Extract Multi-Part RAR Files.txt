@@ -1,0 +1,13 @@
+## Academic Tracker Archive
+
+Your split archive (`Academic Tracker.part1.rar`, `Academic Tracker.part2.rar`, `Academic Tracker.part3.rar`) contains the source code, local database, and assets for your **Academic Tracker** desktop application—the Python-based productivity tool designed with a floating widget interface, SQLite database integration, and PDF report exporting for managing coursework and exam deadlines.
+
+---
+
+### How to Extract Multi-Part RAR Files
+
+To properly extract the contents when an archive is split into multiple parts (`.part1`, `.part2`, etc.), follow these quick steps:
+
+* **Keep all parts in the same folder:** Make sure `part1`, `part2`, and `part3` are downloaded and sitting in the exact same directory.
+* **Select only the first file:** Right-click on **`Academic Tracker.part1.rar`** (the extraction utility will automatically read the sequential `part2` and `part3` dependencies).
+* **Extract:** Use **WinRAR**, **7-Zip**, or **Peazip** and select **"Extract Here"** or **"Extract to Academic Tracker\"**. The tool will seamlessly stitch the three pieces back together and unpack your complete project directory.
